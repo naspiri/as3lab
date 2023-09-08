@@ -1,0 +1,20 @@
+name: as3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython=8.5  # a powerful Python shell
+  - joblib=1.1  # used only to save/load Scikit-Learn models
+  - jupyterlab=3.4  # to edit and run Jupyter notebooks
+  - matplotlib=3.5  # beautiful plots. See tutorial tools_matplotlib.ipynb
+  - numexpr=2.8  # used in the Pandas tutorial for numerical expressions
+  - numpy=1.23  # Powerful n-dimensional arrays and numerical computing tools
+  - pandas=1.4  # data analysis and manipulation tool
+  - pillow=9.2  # image manipulation library, (used by matplotlib.image.imread)
+  - pip  # Python's package-management system
+  - pydot=1.4  # used only for in chapter 10 for tf.keras.utils.plot_model()
+  - python=3.10  # your beloved programming language! :)
+  - scikit-learn=1.1  # machine learning library
+  - scipy=1.9  # scientific/technical computing library
+  - wheel  # built-package format for pip
+  - widgetsnbextension=4.0  # interactive HTML widgets for Jupyter notebooks
