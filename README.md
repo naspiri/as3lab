@@ -1,5 +1,5 @@
 # as3lab
-To run the notebook locally, you must first create a python environment (a working conda installation is required, see https://docs.conda.io/projects/miniconda/en/latest/index.html#quick-command-line-install):
+To run the notebook locally, you must first create a python environment (a working conda installation is required, see [miniconda quick install](https://docs.conda.io/projects/miniconda/en/latest/index.html#quick-command-line-install)):
 
 `conda env create -f environment.yml`
 
