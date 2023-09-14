@@ -3,7 +3,7 @@ To run the notebook locally, you must first create a python environment (a worki
 
 `conda env create -f environment.yml`
 
-Then you must activate it: 
+Then it is necessary to activate it: 
 
 `conda activate as3`
 
